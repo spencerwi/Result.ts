@@ -1,0 +1,28 @@
+{
+  "name": "result.ts",
+  "version": "0.1.0",
+  "description": "A Result type and convenient operations on it",
+  "main": "dist/result.js",
+  "typings": "dist/result.d.ts",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "optional",
+    "maybe",
+    "nullable",
+    "result"
+  ],
+  "author": "Spencer Williams",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-run": "^1.7.1",
+    "gulp-typescript": "2.11.0",
+    "gulp-uglifyjs": "~0.6.0",
+    "merge2": "~0.3.1",
+    "painless": "^0.9.5",
+    "rimraf": "~2.2.8",
+    "typescript": "2.0.2"
+  }
+}

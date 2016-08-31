@@ -1,0 +1,17 @@
+{
+    "version": "2.0.2",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "umd",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "removeComments": true,
+        "noLib": false,
+        "declaration": true,
+        "outDir": "./dist",
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "strictNullChecks": true
+    },
+   "files": [ "./src/result.ts" ]
+}
